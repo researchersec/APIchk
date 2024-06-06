@@ -1,0 +1,11 @@
+{
+    "api_urls": {
+        "https://api.statbank.dk/v1/tables": null,
+        "https://api.boliga.dk": null,
+        "https://api.energidataservice.dk/dataset/Elspotprices": null,
+        "https://api.dataforsyningen.dk/postnumre": null,
+        "https://dmigw.govcloud.dk/v2/metObs/collections/observation/items?stationId=05185": "DMI_API_KEY"
+    },
+    "timeout": 5,
+    "retry_attempts": 1
+}
